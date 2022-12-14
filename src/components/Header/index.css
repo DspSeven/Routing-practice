@@ -1,1 +1,38 @@
 /* Write your CSS code here */
+/* Write your CSS code here */
+.wave-container {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin-bottom: 50px;
+}
+.wave-logo {
+  height: 35px;
+  align-self: center;
+}
+.left-side-container {
+  display: flex;
+  justify-content: space-between;
+  width: 105px;
+}
+.left-side-heading {
+  align-self: center;
+  color: #551e53;
+  font-size: 25px;
+  font-family: 'serif';
+}
+.right-side-container {
+  display: flex;
+  justify-content: space-between;
+}
+.list-container {
+  list-style-type: none;
+  margin-right: 10px;
+}
+.home-cls {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 3px;
+  color: #551e53;
+}
