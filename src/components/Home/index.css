@@ -1,1 +1,11 @@
 /* Write your CSS code here */
+/* Write your CSS code here */
+.home-logo {
+  height: 50vh;
+}
+.home-heading {
+  text-align: center;
+  color: #6d396b;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
