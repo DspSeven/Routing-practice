@@ -1,1 +1,23 @@
 /* Write your CSS code here */
+/* Write your CSS code here */
+.about-logo {
+  height: 50vh;
+}
+.about-heading {
+  text-align: center;
+  color: #6d396b;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+.about-para {
+  text-align: center;
+  color: #6d396b;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
